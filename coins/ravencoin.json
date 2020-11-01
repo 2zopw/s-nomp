@@ -1,0 +1,6 @@
+{
+    "name": "Ravencoin",
+    "symbol": "rvn",
+    "algorithm": "kawpow",
+    "txfee": 0.000005
+}
